@@ -1,10 +1,21 @@
 This is my final project: "Studios Leo"
 
-This is the explanation video:
+Video Demo:
+
 // put video link here
 
-  My final project is my website, "Studios Leo", where I showcase my portifolio. It's basically the collection of all the projects that I've ever made, including websites and games.
-  To start off with, I'm really into game development. Up to the publishing date of this project, I've already programed 6 simple but engaging games, ranging from 3D First Person horror style to 2D platformers and runners. They're all made with Unity game engine, where C# is used as the programing language. They're all listed in the main part of this website and you can click on them to be redirected to their respective GameJolt pages, where you can download them and play.
-  Furthermore, as a math enthusiast, I've always heard people saying Calculus would be a literal nightmare when I got to college. Taking that into consideration, I also created a website for STEM students to learn Calculus, it's called "iMath", and you can acess it by clicking on the banner bellow all the games section. Eventough I think iMath is already pretty handful, I intendd to work more on it, and maybe even add more math-related metters in the future.
-  At the end of this website, there is the footer, which contains my socials, such as YouTube, X, GameJolt and Itch.io (where in the last two I release my games). Thus you're able to acess them by clicking on their respective icons.
-  Finally, I'm gonna do a quick explanation of how I made this website itself. "Studios Leo" was made using HTML for the structure, CSS for the style, including hover animations, and JavaScript served as a build-helper for the data and links inside the HTML and also for the interactive part of it.
+Description:
+
+My final project is a personal portfolio website called "Studios Leo", designed to showcase all of the projects I have developed so far, especially in the field of game development. The main goal of this website is to centralize my work in a single platform, making it easy for others to explore my creations and understand my skills as a developer.
+
+I have a strong interest in game development, and at the time of publishing this project, I have created six small but engaging games using the Unity game engine. These games vary in style and genre, including 3D first-person horror experiences and 2D platformers and runners. All of them were developed using C#, which allowed me to explore object-oriented programming concepts in practice. On the website, each game is displayed as an interactive element, and by clicking on it, the user is redirected to its respective page on platforms like Game Jolt, where the game can be downloaded and played.
+
+In addition to game development, I also have a strong interest in mathematics. Because of the common perception that Calculus is difficult and intimidating, I decided to create a separate educational project called "iMath". This project is a web-based platform aimed at helping STEM students better understand Calculus concepts. On the "Studios Leo" website, iMath is featured as a highlighted section, allowing users to easily access it. Although it is already functional, I plan to continue improving it in the future by adding more topics and interactive explanations.
+
+From a technical perspective, this website was built using HTML, CSS, and JavaScript. HTML was used to structure the content, organizing elements such as lists of games, images, and sections. CSS was responsible for the visual design, including layout, colors, hover effects, transitions, and responsive behavior. I implemented modern UI techniques to make the interface clean and engaging. JavaScript was used to dynamically populate content, such as inserting links, images, and titles into each project card, which helps reduce repetition in the HTML and makes the code easier to maintain. It also adds interactivity, improving the overall user experience.
+
+One design decision I made was to separate the data (such as game links and titles) from the HTML structure, using JavaScript objects to manage this information. This approach makes it easier to update or add new projects without modifying the entire HTML file. Another decision was to keep the interface minimalistic, focusing on clarity and ease of navigation rather than overloading the user with too much information.
+
+At the bottom of the website, there is a footer section containing links to my social platforms, including YouTube, X, GameJolt, and Itch.io, where I publish and share my work. This allows users to further explore my projects and stay updated with my future developments.
+
+Overall, "Studios Leo" represents not only a collection of my past work but also a foundation for future projects. It reflects my interests in both programming and mathematics, and serves as a step forward in my journey as a developer.
