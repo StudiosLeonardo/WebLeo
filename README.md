@@ -1,7 +1,7 @@
 This is my final project: "Studios Leo"
 
 Video Demo:
-https://www.youtube.com/watch?v=z4wX2B4yJ4U
+https://youtube.com/shorts/mQFGCA7jn0E?feature=share
 
 Description:
 
